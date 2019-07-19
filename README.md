@@ -1,2 +1,2 @@
 # Decorator Pattern
-Netbeans Decorator Pattern using abstract classes
+Decorator Pattern using abstract classes
