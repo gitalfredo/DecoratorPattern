@@ -1,2 +1,2 @@
 # Decorator Pattern
-Simple Decorator Pattern using abstract classes, made in Netbeans.
+Netbeans Decorator Pattern using abstract classes
